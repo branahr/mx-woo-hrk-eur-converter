@@ -3,7 +3,7 @@
 Plugin Name: MX WooCommerce HRK 2 EUR converter
 Plugin URI: https://media-x.hr
 Description: Alat za promjenu cijene iz HRK u EUR + promjenu glavne valute u WooCommerceu
-Version: 1.1
+Version: 1.2
 Author: Media X
 WC tested up to: 7.2
 Author URI: https://media-x.hr
